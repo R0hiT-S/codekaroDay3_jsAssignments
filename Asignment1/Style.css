@@ -1,0 +1,10 @@
+*{
+    height: 100%;
+    margin: 0;
+    box-sizing: border-box;
+}
+#container > h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
